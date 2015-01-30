@@ -1,3 +1,3 @@
 # ray9911
-this ray first repository for some test
+this ray first repository for some test.
 this is a line I edit on local.
